@@ -1,0 +1,28 @@
+# Compiled object files and binaries
+*.elf
+*.bin
+*.hex
+
+# Build files and directories
+.pio/
+.pioenvs/
+build/
+
+# IDE settings and logs
+.vscode/
+*.code-workspace
+*.log
+
+# Python virtual environment
+.venv/
+env/
+venv/
+
+# Miscellaneous
+.DS_Store
+*.pyc
+__pycache__/
+
+# PlatformIO-specific files
+platformio.ini.bak
+
